@@ -1,0 +1,48 @@
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\Yusuf Emre\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\Z112_17\Desktop\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form4.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form5.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form6.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form7.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form8.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+F:\11B\Yusuf Emre Açılan\Emlak Otomasyon\Emlak Otomasyon\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
